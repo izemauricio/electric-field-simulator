@@ -1,5 +1,5 @@
 # electric-field-simulator
-MatLab
+MatLab 2012b Project
 <br/><br/>
 Simulation of the electric field and the potential in a coaxial cable, a parallel plates and a combdrive-system
 <br/><br/>
